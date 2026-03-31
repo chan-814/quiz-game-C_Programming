@@ -106,18 +106,12 @@ quiz-game/
 
 ### Steps
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/chan-814/quiz-game-C_Programming.git
-   cd quiz-game-C_Programming/Quiz_Game
-   ```
-
-2. **Compile the program**
+1. **Compile the program**
    ```bash
    gcc quiz.c -o quiz
    ```
 
-3. **Run the program**
+2. **Run the program**
    ```bash
    # On Linux / macOS
    ./quiz
